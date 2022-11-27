@@ -1,0 +1,20 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "page clone",
+  "main": "app.js",
+  "scripts": {
+    "sass": "npx sass sample.scss style.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donyashirazi/new-project.git"
+  },
+  "author": "donya",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.8.0",
+    "sass": "^1.56.1"
+  }
+}
